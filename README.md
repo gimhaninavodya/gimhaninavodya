@@ -1,4 +1,4 @@
-<h1 >Hi there!👋, I'm I'm Gimhani Navodya</h1>
+<h1 >Hi there!👋, I'm Gimhani Navodya</h1>
 <h3 >👋 I'm passionate IT student. 👨‍💻</h3>
 
 - 🌱 I’m currently learning **Python**
