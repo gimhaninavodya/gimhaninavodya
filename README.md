@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my coding skills
 
-- 📫 How to reach me **navodyabrahmanage@gmail.com**
+- 📫 How to reach me **gimhanibrahmanage@gmail.com**
 
 - ⚡ Fun fact **😄**
 
